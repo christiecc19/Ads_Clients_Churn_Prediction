@@ -1,5 +1,5 @@
-# Ads_Clients_Churn_Prediction
-This project built a model to predict whether ads clients will churn or not
+# Clients Churn Prediction
+This project built a model to predict whether clients will churn or not
 
 Pre-processed dataset by data cleaning, categorical features transformation.
 
@@ -9,6 +9,8 @@ Optimized the hyperparameters by using a 5-fold cross-validation strategy.
 
 Evaluated model performance from each  corresponding algorithm, analyzed feature importance to identify key factors which influenced the churn  probability.
 
-Dataset:Churn.all
+# Data set
+Churn.all
 
+# Code
 Jupyter Notebook : churn.ipynb
